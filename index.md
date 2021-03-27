@@ -4,7 +4,7 @@ This is my website.
 
 ### Who I am
 
-I am someone that likes **_FOSS_**.
+I am someone that likes FOSS.
 
 ### My projects
 
